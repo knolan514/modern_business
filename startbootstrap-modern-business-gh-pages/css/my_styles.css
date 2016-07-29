@@ -1,0 +1,48 @@
+
+
+/*index*/
+.carousel-inner {
+  max-width: none;
+  max-height:auto;
+}
+
+.body {
+  background: linear-gradient(lightgray, lightblue);
+}
+
+#thumbs_up {
+  font-size: 30px;
+}
+
+.thumb_img {
+  box-shadow: 10px 10px 10px;
+}
+
+nav {
+  padding-top:30px;
+}
+
+/*.shadow{
+  box-shadow: 5px 5px 5px;
+}*/
+
+/*.contain_images {
+  padding-right: 10px*/
+}
+
+.container{
+
+}
+
+.page-header {
+  text-align: center;
+}
+
+footer {
+  padding-top:20px;
+  text-align: center;
+}
+
+#rons_answers {
+  text-align: center;
+}
